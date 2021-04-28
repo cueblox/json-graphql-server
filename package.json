@@ -21,7 +21,6 @@
         "test": "jest",
         "watch-test": "make watch-test",
         "server": "make run",
-        "prepare": "make build",
         "prepublish": "make build"
     },
     "lint-staged": {
